@@ -11,7 +11,7 @@ LICENSE : [MIT](license.md)
 2. [git add](add.md) 
 3. [git commit](commit.md)
 4. [git pull](pull.md)
-5. 
+
 
 ---
 
